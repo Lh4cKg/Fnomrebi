@@ -4,7 +4,6 @@
 SimpleApi
 """
 
-import json
 import requests
 import string
 import random

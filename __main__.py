@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from phonedb.sa_sync import synchronize
+from phonedb.n_sync import synchronize
 
 # @TODO
 # numbers = open('numbers', 'r')
